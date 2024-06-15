@@ -1,12 +1,10 @@
-Got it! Here is the revised list in the requested format:
-
 1. **Instructions**: [ɪnˈstrʌkʃənz] Steps or guidelines to follow.
    - Example: The instructions for assembling the furniture were easy to understand.
 
 2. **Conference**: [ˈkɒn.fər.əns] A large meeting for discussion.
    - Example: She attended a conference on climate change last week.
 
-3. **Frequently**: [ˈfriː.kwənt.li] Often.
+3. **Frequently**: [ˈfriː.kwənt.li] Often. 
    - Example: He frequently visits his grandparents on weekends.
 
 4. **Punctual**: [ˈpʌŋk.tʃu.əl] Being on time.
@@ -412,4 +410,42 @@ Got it! Here is the revised list in the requested format:
 136. **Various**: [ˈvɛriəs] Different kinds or types.
     - Example: The store sells various types of cheese.
 
-I hope this helps!
+137. **Standard**: [ˈstændərd] A level of quality or attainment; an accepted or approved example against which others are judged or measured.
+   - **Definition**:
+     - A level of quality or achievement, especially one that is considered acceptable or desirable.
+     - A model or example used as a point of reference for evaluating or judging others.
+   - **Usage**:
+     - "Standard" refers to an established norm or criterion used to measure or judge quality, performance, or other attributes.
+   - **Example Sentences**:
+     - The company maintains high standards of customer service to ensure client satisfaction.
+     - This model is the standard by which all other products are measured.
+
+138. **Attainment**: [əˈteɪnmənt] The action or fact of achieving a goal toward which one has worked.
+   - **Definition**:
+     - The achievement of a goal or level of success, especially through effort, skill, or perseverance.
+     - Something that has been achieved or accomplished.
+   - **Usage**:
+     - "Attainment" is used to describe the successful achievement of a goal, often highlighting the effort and hard work involved.
+   - **Example Sentences**:
+     - Her academic attainments include a master's degree and a Ph.D.
+     - The attainment of their sales target was a significant milestone for the company.
+
+     ### Achievement
+
+139. **Achievement**: [əˈtʃiːvmənt] A thing done successfully, typically by effort, courage, or skill.
+   - **Definition**:
+     - Something accomplished, especially by superior ability, special effort, or great courage.
+   - **Usage**:
+     - "Achievement" refers to the successful completion or attainment of a goal, often involving hard work and dedication.
+   - **Example Sentences**:
+     - Graduating from college was a major achievement in her life.
+     - Winning the championship was an incredible achievement for the team.
+
+140. **Typically**: [ˈtɪpɪkli]ß In most cases; usually.
+   - **Definition**:
+     - In a way that is usual for a particular person, thing, or group.
+   - **Usage**:
+     - "Typically" refers to what normally happens or is done.
+   - **Example Sentences**:
+     - Typically, he arrives at work by 9 a.m. every day.
+     - The weather in this region is typically warm and sunny during the summer months.
