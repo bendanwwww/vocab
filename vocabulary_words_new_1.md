@@ -163,9 +163,7 @@
 55. **Improvement**: [ɪmˈpruvmənt] A change that makes something better.
     - Example: There has been a significant improvement in his performance.
 
-56.
-
- **Skill**: [skɪl] The ability to do something well.
+56. **Skill**: [skɪl] The ability to do something well.
     - Example: She has a great skill for painting.
 
 57. **Practice**: [ˈpræktɪs] To do something repeatedly to improve.
@@ -449,3 +447,74 @@
    - **Example Sentences**:
      - Typically, he arrives at work by 9 a.m. every day.
      - The weather in this region is typically warm and sunny during the summer months.
+
+141. **Desire**: /dɪˈzaɪər/ A strong feeling of wanting to have something or wishing for something to happen.
+- **Definition**:
+- As a noun: A strong wish or longing for something.
+- As a verb: To strongly wish for or want something.
+- **Usage**:
+- "Desire" can refer to both the feeling of wanting something and the act of wishing for it.
+- **Example Sentences**:
+- **Noun**: Her desire to travel the world has always been strong.
+- **Verb**: He desires to learn a new language before his trip.
+
+### Summary
+- **Desire** means a strong feeling of wanting something or wishing for it to happen.
+- It can be used as both a noun and a verb.
+- Example (noun): "She has a strong desire to succeed in her career."
+- Example (verb): "They desire to live in a peaceful neighborhood."
+
+Desire emphasizes the intensity of wanting something, whether it is a tangible object or an abstract goal.
+
+142. **Restriction**: /rɪˈstrɪkʃən/ A limiting condition or measure, especially a legal one.
+   - **Definition**:
+     - A rule or regulation that limits what one can do.
+     - The act of keeping something within fixed limits.
+   - **Usage**: 
+     - "Restriction" refers to conditions that limit freedom of action or movement.
+   - **Example Sentences**:
+     - There are strict restrictions on smoking in public places.
+     - The new policy includes restrictions on the use of company vehicles.
+
+### Summary
+- **Restriction** means a limiting condition or measure that confines or limits freedom of action.
+- It is often used to describe rules, regulations, or conditions that prevent certain actions.
+- Example: "The city imposed restrictions on water usage during the drought."
+- Example: "Travel restrictions have been implemented due to the pandemic."
+
+Restrictions serve to control, limit, or confine actions and are often put in place for safety, health, legal, or regulatory reasons.
+
+143. **Regulatory**: /ˈrɛɡjʊlətɔːri/ Relating to the rules or laws that control or govern conduct or practices.
+   - **Definition**:
+     - Pertaining to the action of regulating or the rules and regulations imposed by authorities to control behavior or practices.
+   - **Usage**:
+     - "Regulatory" describes the framework, bodies, or processes involved in creating and enforcing rules and standards.
+   - **Example Sentences**:
+     - The company must comply with all regulatory requirements to operate legally.
+     - Regulatory agencies ensure that businesses follow environmental protection laws.
+
+### Summary
+- **Regulatory** means relating to rules or laws that control or govern behavior.
+- It involves the creation and enforcement of regulations by authorities.
+- Example: "The regulatory body issued new guidelines for food safety."
+- Example: "Compliance with regulatory standards is essential for maintaining certification."
+
+Regulatory functions are crucial for maintaining order, safety, and standards in various industries and activities.
+
+144. **Force**: /fɔːrs/ Physical power or strength exerted on an object; to compel or make someone do something.
+   - **Definition**:
+     - **As a noun**: Physical strength or power used to move something or exert influence.
+     - **As a verb**: To compel someone to do something by using power or pressure.
+   - **Usage**: 
+     - "Force" can refer to physical power, influence, or the act of compelling someone.
+   - **Example Sentences**:
+     - **Noun**: The force of the wind knocked down several trees.
+     - **Verb**: The manager tried to force him to accept the new terms of the contract.
+
+### Summary
+- **Force** can mean physical strength, power, or the act of compelling someone to do something.
+- It describes both the physical power exerted on objects and the pressure applied to influence behavior.
+- Example (noun): "The force of the explosion was felt miles away."
+- Example (verb): "He was forced to resign due to the scandal."
+
+"Force" emphasizes the application of power, whether physical or metaphorical, to achieve an effect or compel action.
